@@ -1,0 +1,11 @@
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\bin\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.exe
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\bin\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.deps.json
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\bin\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.runtimeconfig.json
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\bin\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.runtimeconfig.dev.json
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\bin\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.dll
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\bin\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.pdb
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\obj\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.csprojAssemblyReference.cache
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\obj\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.AssemblyInfoInputs.cache
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\obj\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.AssemblyInfo.cs
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\obj\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.dll
+C:\Users\mirac\source\repos\FutbolMaciSimulasyonu\FutbolMaciSimulasyonu\obj\Debug\netcoreapp3.0\FutbolMaciSimulasyonu.pdb
