@@ -1,16 +1,3 @@
-﻿/****************************************************************************
-** SAKARYA ÜNİVERSİTESİ
-** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-** BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-** NESNEYE DAYALI PROGRAMLAMA DERSİ
-** 2018-2019 BAHAR DÖNEMİ
-**
-** ÖDEV NUMARASI..........: B171210090
-** ÖĞRENCİ ADI............: Miraç
-** ÖĞRENCİ NUMARASI.......: Özal
-** DERSİN ALINDIĞI GRUP...: 2-A
-****************************************************************************/
-
 using System;
 using System.Collections.Generic;
 using System.Threading;
